@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const App = () => "Hello DND"
+const App = () => "Hello Practice DND"
 
 ReactDOM.render(
     <App />,
